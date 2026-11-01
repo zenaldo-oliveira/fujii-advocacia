@@ -22,7 +22,7 @@ Site institucional desenvolvido e personalizado para a Fujii Advocacia & Consult
 
 O projeto combina uma identidade visual em azul-marinho, off-white e dourado com navegação organizada por áreas do Direito. O conteúdo apresenta o escritório e facilita o acesso aos canais de contato em computadores e dispositivos móveis.
 
-## Áreas de atuação
+## Áreas de atuação.
 
 - Direito Tributário.
 - Direito Agrário e do Agronegócio.
