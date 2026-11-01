@@ -6,7 +6,7 @@
 
 Uma apresentação digital das áreas de atuação, do escritório e dos seus canais de atendimento.
 
-[![Fujii Advocacia — desktop e mobile](src/assets/fujii-mockup.png)](https://fujiiadvogados.vercel.app/)
+[![Fujii Advocacia — desktop e mobile](src/assets/fujii-mockup-v2.png)](https://fujiiadvogados.vercel.app/)
 
 [🌐 Acessar o site](https://fujiiadvogados.vercel.app/) · [💻 Código-fonte](https://github.com/zenaldo-oliveira/fujii-advocacia) · [👨‍💻 Meu portfólio](https://zenaldo-portfolio-react.vercel.app/#projetos)
 
